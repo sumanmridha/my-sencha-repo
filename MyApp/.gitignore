@@ -7,8 +7,6 @@ bootstrap.js
 bootstrap.json
 modern.json
 classic.json
-/sass/example/bootstrap.json
-/sass/example/bootstrap.js
 *.pyc
 
 # directories
