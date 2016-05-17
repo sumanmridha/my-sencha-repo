@@ -1,0 +1,27 @@
+# Architect
+.architect
+
+# Dynamically Genarated Files
+bootstrap.css
+bootstrap.js
+bootstrap.json
+modern.json
+classic.json
+/sass/example/bootstrap.json
+/sass/example/bootstrap.js
+*.pyc
+
+# directories
+/build/
+/test/
+/cordova/
+.sass-cache
+
+# Logs
+*.log
+
+# system files
+.DS_Store
+
+# idea
+.idea
